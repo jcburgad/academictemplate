@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Connor Burgad"
+  name             : #"Name1 Name2"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate at Ohio University, working with Doug Clowe (OU), Jim Annis (Fermi National Lab), and Marcelle Soares-Santos (Brandeis Univ.)."
   location         : "Athens, Ohio"
