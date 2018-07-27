@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Name1 Name2"
+  name             : "J. Connor Burgad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate at Ohio University, working with Doug Clowe (OU), Jim Annis (Fermi National Lab), and Marcelle Soares-Santos (Brandeis Univ.)."
   location         : "Athens, Ohio"
-  employer         : "Ohio University
+  employer         : "Ohio University"
   email            : "jb901915@ohio.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
